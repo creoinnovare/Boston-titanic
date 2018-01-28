@@ -48,11 +48,9 @@ Slide With Plot
 References
 ========================================================
 
-Integration: R & Github
-<http://r-pkgs.had.co.nz/git.html>.
+Integration: R & Github :: <http://r-pkgs.had.co.nz/git.html>
 
-For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
 
-1) install.packages("devtools") 
+For more details on authoring R presentations please visit
 
-2) devtools::install_github("creoinnovare/Boston-titanic")
+<https://support.rstudio.com/hc/en-us/articles/200486468>
