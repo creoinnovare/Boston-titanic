@@ -1,0 +1,49 @@
+Git MLSociety - Boston-titanic project
+========================================================
+author: Charles Miller
+date: 2018/01/28
+autosize: true
+
+Setting up Git Hub
+========================================================
+
+A free github account is necessary -
+
+1) https://github.com/ (sign up option in upper right corner of web page)
+
+2) Forward Github Username or Email
+
+3) You will be sent an invitation to join project
+
+
+Setting up RStudio Envionment
+========================================================
+
+1) install.packages("devtools") 
+
+2) devtools::install_github("creoinnovare/Boston-titanic")
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
+References
+========================================================
+
+Integration: R & Github
+<http://r-pkgs.had.co.nz/git.html>.
+
+For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+
+1) install.packages("devtools") 
+
+2) devtools::install_github("creoinnovare/Boston-titanic")
